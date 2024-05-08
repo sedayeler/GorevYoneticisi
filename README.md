@@ -1,1 +1,1 @@
-#Görev Yönetecisi
+Görev Yöneticisi
